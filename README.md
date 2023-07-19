@@ -10,7 +10,7 @@ npm i pinia-plugin-capacitor-persist
 
 ## Usage
 
-First, install the plugin as part of your Pinia initialisation
+First, install the plugin as part of your Pinia initialization
 
 ```js
 import { createApp } from 'vue';
